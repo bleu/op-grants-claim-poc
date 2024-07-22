@@ -10,9 +10,6 @@
 [submodule "packages/foundry/lib/eas-contracts"]
 	path = packages/foundry/lib/eas-contracts
 	url = https://github.com/ethereum-attestation-service/eas-contracts
-[submodule "packages/foundry/lib/openzeppelin-contracts-upgradeable"]
-	path = packages/foundry/lib/openzeppelin-contracts-upgradeable
-	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
 [submodule "packages/foundry/lib/openzeppelin-solidity"]
 	path = packages/foundry/lib/openzeppelin-solidity
 	url = https://github.com/OpenZeppelin/openzeppelin-solidity
